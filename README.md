@@ -63,6 +63,6 @@ Start simple server for serving files and mocks. Runs independently of build so 
 
 Page/Device  | Mobile | Desktop
 ------------- | ------------- | -------------
-Home page  | a |b
-Event list page  | c | d
-Event details  | e | f
+Home page  | <img src="https://raw.githubusercontent.com/daniel-dykszak/daniel-dykszak.github.io/master/lighthouse/home-mobile.PNG"> | <img src="https://raw.githubusercontent.com/daniel-dykszak/daniel-dykszak.github.io/master/lighthouse/home-desktop.PNG"> 
+Event list page  | <img src="https://raw.githubusercontent.com/daniel-dykszak/daniel-dykszak.github.io/master/lighthouse/list-mobile.PNG"> | <img src="https://raw.githubusercontent.com/daniel-dykszak/daniel-dykszak.github.io/master/lighthouse/list-desktop.PNG">
+Event details  | <img src="https://raw.githubusercontent.com/daniel-dykszak/daniel-dykszak.github.io/master/lighthouse/details-mobile.PNG"> | <img src="https://raw.githubusercontent.com/daniel-dykszak/daniel-dykszak.github.io/master/lighthouse/details-desktop.PNG">
