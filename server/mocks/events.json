@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "title": "Stare Zoo",
+    "description": "Stare Zoo w Poznaniu – jeden z dwóch najstarszych ogrodów zoologicznych w Polsce, którego początki sięgają XIX w. Ogród jako przykład zabudowy wiwaryjnej został wpisany do rejestru zabytków w 1978 roku",
+    "location": {
+      "lat": 52.40862939979429,
+      "lng": 16.90612167542281,
+      "address": "Zwierzyniecka 19, 60-814 Poznań"
+    },
+    "category": "ZOO"
+  },
+  {
+    "id": "2",
+    "title": "Nowe Zoo",
+    "description": "Ogród Zoologiczny w Poznaniu",
+    "location": {
+      "lat": 52.40425599901116,
+      "lng": 16.99426698279021,
+      "address": "Krańcowa 81, 61-048 Poznań"
+    },
+    "category": "ZOO"
+  },
+  {
+    "id": "3",
+    "title": "Palmiarnia",
+    "description": "10 pawilonów mieszczących zróżnicowane ekosystemy – od tropików po sawannę. Na ich terenie jest też kawiarnia.",
+    "location": {
+      "lat": 52.402037780648456,
+      "lng": 16.90167130246319,
+      "address": "Matejki 18, 60-767 Poznań"
+    },
+    "category": "PARK"
+  },
+  {
+    "id": "4",
+    "title": "Park Cytadela w Poznaniu",
+    "description": "największy park Poznania o powierzchni ok. 100 ha, zbudowany w latach 1963–1970 na terenie dawnego Fortu Winiary.",
+    "location": {
+      "lat": 52.42264146665842,
+      "lng": 16.938558311562122,
+      "address": "Aleja Armii Poznań, 61-001 Poznań"
+    },
+    "category": "PARK"
+  },
+  {
+    "id": "5",
+    "title": "Park Dąbrowskiego",
+    "description": "Park miejski i teren zielony popularny wśród miłośników spokojnego wypoczynku: spacerów, pikników, kąpieli słonecznych itp.",
+    "location": {
+      "lat": 52.40592375956982,
+      "lng": 16.93357745318833,
+      "address": "Ogrodowa, 60-101 Poznań"
+    },
+    "category": "PARK"
+  },{
+  "id": "6",
+  "title": "Park Dąbrowskiego",
+  "description": "Park miejski i teren zielony popularny wśród miłośników spokojnego wypoczynku: spacerów, pikników, kąpieli słonecznych itp.",
+  "location": {
+    "lat": 52.40592375956982,
+    "lng": 16.93357745318833,
+    "address": "Ogrodowa, 60-101 Poznań"
+  },
+  "category": "PARK"
+},{
+  "id": "7",
+  "title": "Jeżycówka",
+  "description": "Profesjonalne doradztwo, pyszne piwa, czysto, schludnie, leżaczki, pachnące lipy na Jeżycach. Na fotkach maramango i griczi Browaru Sady. Mniam!",
+  "location": {
+    "lat": 52.41077263088989,
+    "lng": 16.911950732508178,
+    "address": "Słowackiego 16, 60-823 Poznań"
+  },
+  "category": "PUB"
+},{
+  "id": "8",
+  "title": "The Dubliner",
+  "description": "Profesjonalne doradztwo, pyszne piwa, czysto, schludnie, leżaczki, pachnące lipy na Jeżycach. Na fotkach maramango i griczi Browaru Sady. Mniam!",
+  "location": {
+    "lat": 52.40801499678473,
+    "lng": 16.91859324480698,
+    "address": "Święty Marcin 80/82, 61-809 Poznań"
+  },
+  "category": "PUB"
+},{
+  "id": "9",
+  "title": "Zoo Warszawa",
+  "description": "Miejski Ogród Zoologiczny w Warszawie – ogród zoologiczny znajdujący się przy ul. Ratuszowej 1/3 w dzielnicy Praga-Północ w Warszawie.\n\nZostał otwarty w 1928 roku. Początkowo zajmował powierzchnię 12 ha i posiadał ok. 500 okazów zwierząt[2]. Obecnie jego powierzchnia wynosi ponad 39 ha.",
+  "location": {
+    "lat": 52.25573457083398,
+    "lng": 21.026284364758098,
+    "address": "1/3, Ratuszowa, 03-461 Warszawa"
+  },
+  "category": "ZOO"
+},{
+  "id": "10",
+  "title": "Zoo Berlin",
+  "description": "Rozległe zoo ze zwierzętami żyjącymi w naturalnym środowisku, nowoczesną ptaszarnią i pokazami karmienia.",
+  "location": {
+    "lat": 52.508062743337824,
+    "lng": 13.338567507786985,
+    "address": "Hardenbergpl. 8, 10787 Berlin, Niemcy"
+  },
+  "category": "ZOO"
+},{
+  "id": "11",
+  "title": "Zoo w Zurychu",
+  "description": "Otwarte w 1929 roku popularne zoo, w którym można zobaczyć ponad 370 gatunków zwierząt w różnorodnych środowiskach.\n\n",
+  "location": {
+    "lat": 47.39300796332702,
+    "lng": 8.585464160585481,
+    "address": "Zürichbergstrasse 221, 8044 Zürich, Szwajcaria"
+  },
+  "category": "ZOO"
+}
+]
